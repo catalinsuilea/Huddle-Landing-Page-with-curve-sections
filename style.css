@@ -267,7 +267,9 @@ input {
     .img2 {
         width:65vw;
     }
-   
+   footer{
+      
+   }
     .footer-container {
         
         flex-direction:column-reverse;
@@ -293,11 +295,12 @@ input {
         float:right;
     }
     .footer-top {
+        
         background-image: url("images/bg-footer-top-mobile.svg");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100%;
-        height: 220px;
+        height:250px;
         width:100%;
     }
 }
